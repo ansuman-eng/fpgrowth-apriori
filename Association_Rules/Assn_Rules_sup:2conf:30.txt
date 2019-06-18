@@ -1,0 +1,37 @@
+citrus fruit , ( 814 ) -----> whole milk , ( 2513 ) - conf  0.36855036855036855
+citrus fruit , ( 814 ) -----> other vegetables , ( 1903 ) - conf  0.3488943488943489
+yogurt , ( 1372 ) -----> whole milk , ( 2513 ) - conf  0.40160349854227406
+yogurt , ( 1372 ) -----> other vegetables , ( 1903 ) - conf  0.3112244897959184
+yogurt , whole milk , ( 551 ) -----> other vegetables , ( 1903 ) - conf  0.397459165154265
+yogurt , other vegetables , ( 427 ) -----> whole milk , ( 2513 ) - conf  0.5128805620608899
+rolls/buns , ( 1809 ) -----> whole milk , ( 2513 ) - conf  0.30790491984521834
+other vegetables , ( 1903 ) -----> whole milk , ( 2513 ) - conf  0.38675775091960063
+beef , ( 516 ) -----> whole milk , ( 2513 ) - conf  0.4050387596899225
+tropical fruit , ( 1032 ) -----> other vegetables , ( 1903 ) - conf  0.34205426356589147
+tropical fruit , ( 1032 ) -----> whole milk , ( 2513 ) - conf  0.40310077519379844
+newspapers , ( 785 ) -----> whole milk , ( 2513 ) - conf  0.34267515923566877
+fruit/vegetable juice , ( 711 ) -----> whole milk , ( 2513 ) - conf  0.36849507735583686
+pastry , ( 875 ) -----> whole milk , ( 2513 ) - conf  0.3737142857142857
+bottled water , ( 1087 ) -----> whole milk , ( 2513 ) - conf  0.3109475620975161
+sausage , ( 924 ) -----> rolls/buns , ( 1809 ) - conf  0.32575757575757575
+sausage , ( 924 ) -----> whole milk , ( 2513 ) - conf  0.3181818181818182
+root vegetables , ( 1072 ) -----> other vegetables , ( 1903 ) - conf  0.43470149253731344
+other vegetables , whole milk , ( 736 ) -----> root vegetables , ( 1072 ) - conf  0.30978260869565216
+root vegetables , whole milk , ( 481 ) -----> other vegetables , ( 1903 ) - conf  0.47401247401247404
+root vegetables , other vegetables , ( 466 ) -----> whole milk , ( 2513 ) - conf  0.4892703862660944
+root vegetables , ( 1072 ) -----> whole milk , ( 2513 ) - conf  0.44869402985074625
+frozen vegetables , ( 473 ) -----> whole milk , ( 2513 ) - conf  0.4249471458773784
+whipped/sour cream , ( 705 ) -----> whole milk , ( 2513 ) - conf  0.44964539007092197
+whipped/sour cream , ( 705 ) -----> other vegetables , ( 1903 ) - conf  0.40283687943262414
+frankfurter , ( 580 ) -----> whole milk , ( 2513 ) - conf  0.3482758620689655
+curd , ( 524 ) -----> whole milk , ( 2513 ) - conf  0.4904580152671756
+pip fruit , ( 744 ) -----> whole milk , ( 2513 ) - conf  0.3978494623655914
+pip fruit , ( 744 ) -----> other vegetables , ( 1903 ) - conf  0.34543010752688175
+pork , ( 567 ) -----> whole milk , ( 2513 ) - conf  0.3844797178130511
+pork , ( 567 ) -----> other vegetables , ( 1903 ) - conf  0.37566137566137564
+brown bread , ( 638 ) -----> whole milk , ( 2513 ) - conf  0.3887147335423197
+margarine , ( 576 ) -----> whole milk , ( 2513 ) - conf  0.4131944444444444
+domestic eggs , ( 624 ) -----> whole milk , ( 2513 ) - conf  0.47275641025641024
+domestic eggs , ( 624 ) -----> other vegetables , ( 1903 ) - conf  0.35096153846153844
+butter , ( 545 ) -----> whole milk , ( 2513 ) - conf  0.4972477064220184
+butter , ( 545 ) -----> other vegetables , ( 1903 ) - conf  0.3614678899082569

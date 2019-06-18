@@ -1,0 +1,29 @@
+There two Python scripts :
+
+1) FPGrowth.py
+Dependencies - Pandas, Numpy
+Execute as python FPGrowth.py from terminal
+
+Input : 
+Support as %
+Confidence as %
+
+Output : 
+Standard counts of transactions, distinct items, frequent itemsets
+Messages to convey background process, ex. Encoding, Inserting etc.
+List of frequent itemsets along with frequency
+List of closed frequent itemsets along with frequency
+List of maximal frequent itemsets along with frequency
+List of association rules along with confidence
+
+2) apriori.py
+Dependencies - Numpy
+Execute normally
+
+Input :
+Support as %
+
+Output :
+List of frequent itemsets alongwith frequency
+
+Note: The procedure for generating association rules, closed frequent itemsets, maximal frequent itemsets is same for both algorithms after frequent itemsets are generated, hence they are shown only in FPGrowth.py

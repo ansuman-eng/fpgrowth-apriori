@@ -1,0 +1,46 @@
+beef , tropical fruit , yogurt , rolls/buns , ( 14 ) -----> other vegetables , ( 1903 ) - conf  0.6428571428571429
+cream cheese , curd , whipped/sour cream , other vegetables , ( 11 ) -----> whole milk , ( 2513 ) - conf  0.8181818181818182
+oil , tropical fruit , yogurt , ( 19 ) -----> root vegetables , other vegetables , ( 466 ) - conf  0.5263157894736842
+oil , tropical fruit , root vegetables , ( 20 ) -----> yogurt , other vegetables , ( 427 ) - conf  0.5
+cream cheese , curd , whipped/sour cream , ( 17 ) -----> other vegetables , whole milk , ( 736 ) - conf  0.5294117647058824
+oil , root vegetables , yogurt , other vegetables , ( 14 ) -----> tropical fruit , ( 1032 ) - conf  0.7142857142857143
+pip fruit , root vegetables , soda , other vegetables , ( 16 ) -----> yogurt , ( 1372 ) - conf  0.5625
+long life bakery product , whipped/sour cream , tropical fruit , ( 16 ) -----> yogurt , ( 1372 ) - conf  0.5625
+flour , whipped/sour cream , root vegetables , ( 17 ) -----> other vegetables , ( 1903 ) - conf  0.5294117647058824
+flour , whipped/sour cream , other vegetables , ( 18 ) -----> root vegetables , ( 1072 ) - conf  0.5
+beef , tropical fruit , rolls/buns , other vegetables , ( 17 ) -----> yogurt , ( 1372 ) - conf  0.5294117647058824
+rice , butter , ( 18 ) -----> root vegetables , ( 1072 ) - conf  0.5555555555555556
+cream cheese , curd , whipped/sour cream , whole milk , ( 13 ) -----> other vegetables , ( 1903 ) - conf  0.6923076923076923
+cream cheese , curd , other vegetables , whole milk , ( 17 ) -----> whipped/sour cream , ( 705 ) - conf  0.5294117647058824
+oil , tropical fruit , yogurt , ( 19 ) -----> root vegetables , ( 1072 ) - conf  0.5789473684210527
+pip fruit , yogurt , soda , other vegetables , ( 18 ) -----> root vegetables , ( 1072 ) - conf  0.5
+oil , tropical fruit , root vegetables , ( 20 ) -----> yogurt , ( 1372 ) - conf  0.55
+ham , pip fruit , whole milk , ( 19 ) -----> tropical fruit , ( 1032 ) - conf  0.5789473684210527
+whipped/sour cream , fruit/vegetable juice , pip fruit , ( 18 ) -----> root vegetables , ( 1072 ) - conf  0.5
+oil , tropical fruit , root vegetables , yogurt , ( 11 ) -----> other vegetables , ( 1903 ) - conf  0.9090909090909091
+whipped/sour cream , citrus fruit , pastry , ( 17 ) -----> other vegetables , ( 1903 ) - conf  0.5294117647058824
+oil , tropical fruit , root vegetables , other vegetables , ( 17 ) -----> yogurt , ( 1372 ) - conf  0.5882352941176471
+whipped/sour cream , citrus fruit , pastry , ( 17 ) -----> rolls/buns , ( 1809 ) - conf  0.5882352941176471
+beef , yogurt , rolls/buns , other vegetables , ( 16 ) -----> tropical fruit , ( 1032 ) - conf  0.5625
+oil , root vegetables , yogurt , ( 19 ) -----> other vegetables , ( 1903 ) - conf  0.7368421052631579
+butter , domestic eggs , whipped/sour cream , ( 19 ) -----> other vegetables , ( 1903 ) - conf  0.631578947368421
+oil , fruit/vegetable juice , tropical fruit , ( 14 ) -----> root vegetables , ( 1072 ) - conf  0.6428571428571429
+oil , tropical fruit , yogurt , other vegetables , ( 15 ) -----> root vegetables , ( 1072 ) - conf  0.6666666666666666
+white bread , butter , root vegetables , ( 12 ) -----> other vegetables , ( 1903 ) - conf  0.8333333333333334
+ham , pip fruit , yogurt , ( 17 ) -----> tropical fruit , ( 1032 ) - conf  0.5882352941176471
+oil , root vegetables , yogurt , ( 19 ) -----> tropical fruit , ( 1032 ) - conf  0.5789473684210527
+oil , root vegetables , yogurt , ( 19 ) -----> tropical fruit , other vegetables , ( 353 ) - conf  0.5263157894736842
+pip fruit , root vegetables , yogurt , soda , ( 14 ) -----> other vegetables , ( 1903 ) - conf  0.6428571428571429
+whipped/sour cream , citrus fruit , tropical fruit , root vegetables , ( 12 ) -----> whole milk , ( 2513 ) - conf  0.75
+oil , onions , ( 18 ) -----> root vegetables , ( 1072 ) - conf  0.5
+oil , fruit/vegetable juice , root vegetables , ( 18 ) -----> tropical fruit , ( 1032 ) - conf  0.5
+ham , pip fruit , tropical fruit , ( 18 ) -----> yogurt , ( 1372 ) - conf  0.5555555555555556
+beef , tropical fruit , yogurt , other vegetables , ( 18 ) -----> rolls/buns , ( 1809 ) - conf  0.5
+ham , pip fruit , tropical fruit , ( 18 ) -----> whole milk , ( 2513 ) - conf  0.6111111111111112
+herbs , brown bread , ( 15 ) -----> whole milk , ( 2513 ) - conf  0.6
+pip fruit , root vegetables , bottled water , ( 22 ) -----> other vegetables , ( 1903 ) - conf  0.5
+butter , pork , whipped/sour cream , ( 16 ) -----> other vegetables , ( 1903 ) - conf  0.625
+cream cheese , citrus fruit , root vegetables , ( 13 ) -----> whole milk , ( 2513 ) - conf  0.6923076923076923
+grapes , tropical fruit , yogurt , ( 17 ) -----> whole milk , ( 2513 ) - conf  0.5882352941176471
+
+​
